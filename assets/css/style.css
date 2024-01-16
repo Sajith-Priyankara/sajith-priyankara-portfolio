@@ -158,7 +158,10 @@ html { font-family: var(--ff-poppins); }
 body { background: var(--smoky-black); }
 
 
-
+.about-img h4 {
+  color: white;
+  /* You can add other styles as needed */
+}
 
 
 /*-----------------------------------*\
@@ -232,7 +235,7 @@ article.active {
 
 .h3 { font-size: var(--fs-2); }
 
-.h4 { font-size: var(--fs-4); }
+.h4 { font-size: var(--fs-4);  }
 
 .h5 {
   font-size: var(--fs-7);
